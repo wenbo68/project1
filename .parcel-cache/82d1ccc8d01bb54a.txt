@@ -1,15 +1,9 @@
-32711
+32701
 43/home/wenboliu/test/project1/.eslintrc.json1694969164116607400 0
 44/home/wenboliu/test/project1/.postcssrc.json1694976309486607400 0
-56/home/wenboliu/test/project1/dist/asteriod1.cf07862c.svg1694982198096607400 0
-51/home/wenboliu/test/project1/dist/index.ae28b5ba.js1694982198176607400 0
-51/home/wenboliu/test/project1/dist/index.975ef6c8.js1694979780816607400 0
-55/home/wenboliu/test/project1/dist/index.975ef6c8.js.map1694979780846607400 0
-52/home/wenboliu/test/project1/dist/stars.bd7e51c0.svg1694979780846607400 0
-56/home/wenboliu/test/project1/dist/asteriod1.c379addf.svg1694979780846607400 0
-52/home/wenboliu/test/project1/dist/index.61d3354a.css1694979780716607400 0
-56/home/wenboliu/test/project1/dist/asteriod2.644803cf.svg1694979780846607400 0
-52/home/wenboliu/test/project1/dist/stars.6374224d.svg1694982198096607400 0
+56/home/wenboliu/test/project1/dist/asteriod1.cf07862c.svg1694987416136607400 0
+51/home/wenboliu/test/project1/dist/index.ae28b5ba.js1694987416146607400 0
+52/home/wenboliu/test/project1/dist/stars.6374224d.svg1694987416126607400 0
 38/home/wenboliu/test/project1/.cache/e91694977307956607400 1
 38/home/wenboliu/test/project1/.cache/b91694977307876607400 1
 38/home/wenboliu/test/project1/.cache/6e1694977307806607400 1
@@ -2132,7 +2126,7 @@
 78/home/wenboliu/test/project1/node_modules/postcss-preset-env/dist/options.d.ts1694977234496607400 0
 75/home/wenboliu/test/project1/node_modules/postcss-preset-env/dist/index.cjs1694977233626607400 0
 73/home/wenboliu/test/project1/node_modules/postcss-preset-env/dist/plugins1694977235046607400 1
-44/home/wenboliu/test/project1/dist/index.html1694982198176607400 0
+44/home/wenboliu/test/project1/dist/index.html1694987416136607400 0
 76/home/wenboliu/test/project1/node_modules/postcss-preset-env/dist/index.d.ts1694977234466607400 0
 87/home/wenboliu/test/project1/node_modules/postcss-preset-env/dist/types/postcss-initial1694977234716607400 1
 105/home/wenboliu/test/project1/node_modules/postcss-preset-env/dist/types/postcss-clamp/plugin-options.d.ts1694977234596607400 0
@@ -4066,7 +4060,7 @@
 72/home/wenboliu/test/project1/node_modules/es-abstract/2022/TrimString.js1694906699643841400 0
 73/home/wenboliu/test/project1/node_modules/caniuse-lite/data/regions/BM.js1694906694683841400 0
 74/home/wenboliu/test/project1/node_modules/es-abstract/2022/IsExtensible.js1694906698203841400 0
-52/home/wenboliu/test/project1/dist/index.efe59cdf.css1694982198176607400 0
+52/home/wenboliu/test/project1/dist/index.efe59cdf.css1694987416136607400 0
 84/home/wenboliu/test/project1/node_modules/es-abstract/2022/RequireObjectCoercible.js1694906698753841400 0
 80/home/wenboliu/test/project1/node_modules/es-abstract/2022/StringToCodePoints.js1694906699163841400 0
 75/home/wenboliu/test/project1/node_modules/es-abstract/2022/StringIndexOf.js1694906698993841400 0
@@ -10154,7 +10148,6 @@
 71/home/wenboliu/test/project1/node_modules/es-abstract/2023/StringPad.js1694906699113841400 0
 97/home/wenboliu/test/project1/node_modules/@parcel/codeframe/node_modules/supports-color/readme.md1694978882866607400 0
 95/home/wenboliu/test/project1/node_modules/@parcel/codeframe/node_modules/supports-color/license1694978882136607400 0
-49/home/wenboliu/test/project1/dist/bg.6b392238.svg1694979780846607400 0
 74/home/wenboliu/test/project1/node_modules/date-fns/esm/endOfDay/index.d.ts1694977297906607400 0
 50/home/wenboliu/test/project1/node_modules/prettier1694968619286607400 1
 114/home/wenboliu/test/project1/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/api/inheritance.schema.json1694978884856607400 0
@@ -10265,7 +10258,7 @@
 106/home/wenboliu/test/project1/node_modules/@parcel/package-manager/node_modules/supports-color/package.json1694978882836607400 0
 104/home/wenboliu/test/project1/node_modules/@parcel/packager-svg/node_modules/posthtml-parser/package.json1694978883096607400 0
 61/home/wenboliu/test/project1/node_modules/dashdash/CHANGES.md1694906682833841400 0
-28/home/wenboliu/test/project11694979766786607400 1
+28/home/wenboliu/test/project11694987416106607400 1
 89/home/wenboliu/test/project1/node_modules/@parcel/package-manager/node_modules/micromatch1694978882616607400 1
 77/home/wenboliu/test/project1/node_modules/date-fns/fp/fromUnixTime/index.d.ts1694977299366607400 0
 107/home/wenboliu/test/project1/node_modules/@parcel/packager-svg/node_modules/@parcel/utils/src/bundle-url.js1694978884136607400 0
@@ -12263,7 +12256,6 @@
 61/home/wenboliu/test/project1/node_modules/is-weakmap/index.js1694968218236607400 0
 69/home/wenboliu/test/project1/node_modules/date-fns/fp/setMilliseconds1694977299606607400 1
 95/home/wenboliu/test/project1/node_modules/eslint/lib/linter/code-path-analysis/debug-helpers.js1694968221116607400 0
-46/home/wenboliu/test/project1/dist/index.js.map1694981911746607400 0
 97/home/wenboliu/test/project1/node_modules/@parcel/types/node_modules/@parcel/workers/lib/index.js1694978884836607400 0
 94/home/wenboliu/test/project1/node_modules/eslint-plugin-es-x/lib/configs/restrict-to-es2021.js1694968221566607400 0
 70/home/wenboliu/test/project1/node_modules/postcss/lib/map-generator.js1694977234406607400 0
@@ -13089,7 +13081,7 @@
 94/home/wenboliu/test/project1/node_modules/@swc/helpers/_/_class_private_field_get/package.json1694978888136607400 0
 69/home/wenboliu/test/project1/node_modules/jsx-ast-utils/__tests__/src1694968221056607400 1
 82/home/wenboliu/test/project1/node_modules/date-fns/esm/fp/previousDay/package.json1694977295206607400 0
-55/home/wenboliu/test/project1/dist/index.ae28b5ba.js.map1694982198196607400 0
+55/home/wenboliu/test/project1/dist/index.ae28b5ba.js.map1694987416166607400 0
 78/home/wenboliu/test/project1/node_modules/date-fns/esm/isThisWeek/package.json1694977295576607400 0
 81/home/wenboliu/test/project1/node_modules/@swc/helpers/_/_class_private_field_get1694978888136607400 1
 82/home/wenboliu/test/project1/node_modules/date-fns/previousWednesday/index.js.flow1694977288946607400 0
@@ -15531,7 +15523,6 @@
 67/home/wenboliu/test/project1/node_modules/date-fns/esm/locale/de-AT1694977298846607400 1
 83/home/wenboliu/test/project1/node_modules/which-boxed-primitive/.github/FUNDING.yml1694906682403841400 0
 77/home/wenboliu/test/project1/node_modules/eslint/node_modules/cross-spawn/lib1694968218476607400 1
-42/home/wenboliu/test/project1/dist/index.js1694981911696607400 0
 96/home/wenboliu/test/project1/node_modules/date-fns/esm/locale/zh-TW/_lib/formatRelative/index.js1694977291396607400 0
 61/home/wenboliu/test/project1/node_modules/is-json/.travis.yml1694978882976607400 0
 67/home/wenboliu/test/project1/node_modules/caniuse-api/dist/index.js1694906682223841400 0
@@ -15565,7 +15556,7 @@
 88/home/wenboliu/test/project1/node_modules/@parcel/optimizer-swc/node_modules/ansi-styles1694978882816607400 1
 130/home/wenboliu/test/project1/node_modules/@csstools/postcss-normalize-display-values/node_modules/postcss-value-parser/lib/walk.js1694977233166607400 0
 67/home/wenboliu/test/project1/node_modules/msgpackr/dist/test.js.map1694978886666607400 0
-33/home/wenboliu/test/project1/dist1694982198196607400 1
+33/home/wenboliu/test/project1/dist1694987416166607400 1
 111/home/wenboliu/test/project1/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/pseudo/not.js1694978887556607400 0
 73/home/wenboliu/test/project1/node_modules/date-fns/startOfWeek/index.d.ts1694977300516607400 0
 65/home/wenboliu/test/project1/node_modules/date-fns/locale/ja-Hira1694977300126607400 1
@@ -15817,7 +15808,7 @@
 73/home/wenboliu/test/project1/node_modules/date-fns/esm/locale/bg/index.js1694977290336607400 0
 80/home/wenboliu/test/project1/node_modules/iconv-lite/encodings/tables/cp950.json1694906682153841400 0
 112/home/wenboliu/test/project1/node_modules/@parcel/transformer-babel/node_modules/semver/ranges/to-comparators.js1694978885816607400 0
-56/home/wenboliu/test/project1/dist/asteriod2.e1d11ddc.svg1694982198096607400 0
+56/home/wenboliu/test/project1/dist/asteriod2.e1d11ddc.svg1694987416136607400 0
 69/home/wenboliu/test/project1/node_modules/minimist/test/stop_early.js1694906689763841400 0
 91/home/wenboliu/test/project1/node_modules/@parcel/package-manager/src/promiseFromProcess.js1694978886086607400 0
 91/home/wenboliu/test/project1/node_modules/postcss-selector-parser/dist/util/ensureObject.js1694906685323841400 0
@@ -17043,7 +17034,7 @@
 90/home/wenboliu/test/project1/node_modules/postcss-color-functional-notation/dist/index.cjs1694977232996607400 0
 115/home/wenboliu/test/project1/node_modules/@parcel/packager-html/node_modules/dom-serializer/lib/esm/foreignNames.js1694978882816607400 0
 70/home/wenboliu/test/project1/node_modules/queue-microtask/package.json1694968218356607400 0
-49/home/wenboliu/test/project1/dist/bg.fff7b49d.svg1694982198086607400 0
+49/home/wenboliu/test/project1/dist/bg.fff7b49d.svg1694987416136607400 0
 76/home/wenboliu/test/project1/node_modules/date-fns/locale/kn/_lib/formatLong1694977292966607400 1
 97/home/wenboliu/test/project1/node_modules/@parcel/cache/node_modules/@parcel/workers/src/child.js1694978883606607400 0
 62/home/wenboliu/test/project1/node_modules/caniuse-lite/LICENSE1694906678153841400 0
@@ -17103,7 +17094,6 @@
 108/home/wenboliu/test/project1/node_modules/@parcel/transformer-html/node_modules/semver/functions/rcompare.js1694978885576607400 0
 80/home/wenboliu/test/project1/node_modules/@parcel/runtime-service-worker/LICENSE1694978882126607400 0
 96/home/wenboliu/test/project1/node_modules/@parcel/optimizer-swc/node_modules/has-flag/index.d.ts1694978882406607400 0
-56/home/wenboliu/test/project1/dist/index.61d3354a.css.map1694979780716607400 0
 105/home/wenboliu/test/project1/node_modules/@parcel/node-resolver-core/node_modules/semver/functions/lte.js1694978884886607400 0
 75/home/wenboliu/test/project1/node_modules/date-fns/esm/locale/ug/_lib/match1694977291286607400 1
 70/home/wenboliu/test/project1/node_modules/@csstools/css-tokenizer/dist1694977234896607400 1
@@ -22341,7 +22331,7 @@
 79/home/wenboliu/test/project1/node_modules/parcel/node_modules/has-flag/index.js1694978882626607400 0
 59/home/wenboliu/test/project1/node_modules/jsbn/package.json1694906678583841400 0
 101/home/wenboliu/test/project1/node_modules/@parcel/transformer-svg/node_modules/lru-cache/package.json1694978882516607400 0
-56/home/wenboliu/test/project1/dist/index.efe59cdf.css.map1694982198176607400 0
+56/home/wenboliu/test/project1/dist/index.efe59cdf.css.map1694987416146607400 0
 60/home/wenboliu/test/project1/node_modules/request/lib/har.js1694906681463841400 0
 50/home/wenboliu/test/project1/node_modules/psl/data1694906692523841400 1
 93/home/wenboliu/test/project1/node_modules/eslint-plugin-n/node_modules/semver/functions/lt.js1694968219696607400 0
