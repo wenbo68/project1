@@ -1,9 +1,4 @@
 {
-  "dependencies": {
-    "date-fns": "^2.30.0",
-    "parcel-bundler": "^1.12.5",
-    "prettier": "^3.0.3"
-  },
   "name": "project1",
   "version": "1.0.0",
   "main": "index.html",
@@ -12,5 +7,16 @@
   },
   "author": "Wenbo Liu",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.49.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-n": "^16.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.33.2",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^3.0.3"
+  }
 }

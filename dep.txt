@@ -1,0 +1,7 @@
+1. npm: depedency manager (installed first "npm init")
+2. git: src code revision control ("git init")
+3. eslint: catch errors in code (need .eslintrc.json config and install babel-eslint for ES6+ features because eslint only supports ES6 features)(need to npm install plugins)
+4. prettier: format code (need .prettierrc.json config)
+5. parcel: compile JSX in react to regular js, host code on free web and update live, download dependencies based on src code (no need to npm install everything), treeshake dependencies for deployment ("npm install parcel-bundler)
+6. for lint/prettier/parcel: "npm install --save-dev eslint babel-eslint prettier parcel-bundler" (--save-dev means install these dependencies only for development, not for production)
+7. postcss: can use css features that are not standardized by W3C yet (need .postcssrc.json config)
