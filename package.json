@@ -1,7 +1,6 @@
 {
   "name": "project1",
   "version": "1.0.0",
-  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +15,17 @@
     "eslint-plugin-n": "^16.1.0",
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.33.2",
-    "parcel-bundler": "^1.12.5",
-    "prettier": "^3.0.3"
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.29",
+    "postcss-preset-env": "^9.1.3",
+    "prettier": "^3.0.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "format-number": "^3.0.0",
+    "react": "^18.2.0",
+    "react-async-hook": "^4.0.0",
+    "react-dom": "^18.2.0"
   }
 }
