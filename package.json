@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^3.0.3"
+  },
+  "name": "project1",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wenbo Liu",
+  "license": "ISC",
+  "description": ""
+}
